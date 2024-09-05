@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sagarsedai
-- 👀 I’m interested in Artificial Intelligence
+- 👋 Hi, I’m Sagar Sedai from Kathmandu, Nepal !
+- 👀 I’m experienced for more than 4 years in FullStack Development
 - 🌱 I’m currently doing research on AI
-- 💞️ I’m looking to collaborate on AI projects
+- 💞️ I’m looking to collaborate on Restful API and FullStack Web Development projects
 - 📫 How to reach me leokingsagarbro@gmail.com
 
 <!---
